@@ -1,0 +1,59 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+        <title>修改音乐信息</title>
+		<link rel="stylesheet" href="./css/updateMusic.css">
+</head>
+<body>
+<form action="./MusicRecommendation/UpdateServlet" method="post">
+			
+			<h1 align="center">请输入修改信息:</h1>
+			<table align="center" width="1000" border="0">
+			<tr>
+				<td> <div class="frame1">音乐名称:</div><br></td>
+				<td><input type="text" name="songName" class="songNameframe"><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame2">歌手名称:</div><br></td>
+				<td><input type="text" name="singer" class="singerframe"><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame3">音乐专辑:</div><br></td>
+				<td><input type="text" name="album" class="albumframe"><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame4">音乐风格编号:</div><br></td>
+				<td><input type="text" name="style" class="styleframe"><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame5">音乐语种编号:</div><br></td>
+				<td><input type="text" name="category" class="categoryframe"><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame6">音乐场景编号:</div><br></td>
+				<td><input type="text" name="scene" class="sceneframe"><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame7">音乐文件名:</div><br></td>
+				<td><input type="text" name="url"  id="url" class="urlframe"/><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame8">封面文件名:</div><br></td>
+				<td><input type="text" name="cover"  id="cover" class="coverframe"/><br></td>
+			</tr>
+			<tr>
+				<td> <div class="frame9">歌词文件名:</div><br></td>
+				<td><input type="text" name="lrc"  id="lrc" class="lrcframe"/><br></td>
+			</tr>
+				<tr><td><input type="hidden" name=id value="<%=id%>">
+			<tr>
+				
+			</tr>
+			</table>
+		</form>
+			<a href="manage.jsp"><input type="button" value="返回" class="buttonframe" style="width:36px;height:36px" ></a>
+			<input type="submit" value="提交" class="submitframe" style="width:36px;height:36px" >
+	</body>
+
+</html>

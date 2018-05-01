@@ -1,0 +1,94 @@
+@CHARSET "UTF-8";
+body{
+	background-image:url(../image/background2.jpg);
+	margin:0px;
+}
+.SongId_title{
+	position:absolute;
+	left:25%;
+	height:20px;
+	width:50%;
+	top:170px;
+	font-size:250%;
+}
+.SongName_title{
+	position:absolute;
+	left:40%;
+	height:20px;
+	width:50%;
+	top:170px;
+	font-size:250%;
+}
+.SongerName_title{
+	position:absolute;
+	
+	height:20px;
+	width:50%;
+	top:170px;
+	font-size:250%;
+	left:55%;
+}
+.Album_title{
+	position:absolute;
+	left:70%;
+	height:20px;
+	width:50%;
+	top:170px;
+	font-size:250%;
+}
+.SongId_style{
+	position:relative;
+	left:30%;
+	height:20px;
+	width:100%;
+	top:230px;
+	font-size:150%;
+}
+.SongName_style{
+	position:relative;
+	left:75%;
+	height:20px;
+	width:500%;
+	top:230px;
+	font-size:150%;
+}
+.SongSinger_style{
+	position:relative;
+	left:85%;
+	height:20px;
+	width:500%;
+	top:230px;
+	font-size:150%;
+}
+.Album_style{
+	position:relative;
+	left:95%;
+	height:20px;
+	width:500%;
+	top:230px;
+	font-size:150%;
+}
+.Album_style{
+	position:relative;
+	left:95%;
+	height:20px;
+	width:500%;
+	top:230px;
+	font-size:150%;
+}
+.Alter_style{
+	position:relative;
+	left:500%;
+	height:20px;
+	width:500%;
+	top:365px;
+	font-size:150%;
+}
+.Delete_style{
+	position:relative;
+	left:525%;
+	height:20px;
+	width:500%;
+	top:365px;
+	font-size:150%;
+}

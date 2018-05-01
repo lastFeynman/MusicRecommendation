@@ -1,0 +1,77 @@
+@CHARSET "UTF-8";
+body{
+	background-image:url(../image/body_background.jpg);
+	margin:0px;
+}
+
+.usernum{
+	position:relative;
+	top:400px;
+	left:-20%;
+	height:100px;
+	width:100%;
+    font-size:2.2em;
+	
+}
+.password{
+	position:relative;
+	top:400px;
+	left:-20%;
+	height:100px;
+	width:100%;
+    font-size:2.2em;
+	
+}
+.password2{
+	position:relative;
+	top:400px;
+	left:-20%;
+	height:100px;
+	width:100%;
+    font-size:2.2em;
+	
+}
+.usernumframe{
+	position:relative;
+	top:370px;
+	left:-20%;
+	height:35px;
+	width:100%;
+    
+}
+.passwordframe{
+	position:relative;
+	top:370px;
+	left:-20%;
+	height:35px;
+	width:100%;
+   
+}
+.siteName{
+	height:65px;
+	position:absolute;
+	top:10px;
+	left:25%;
+	white-space:nowrap;
+	font-size:200%;
+	margin: 1em 20%;
+  
+}
+.login{
+	position:relative;
+	top:370px;
+	left:13%;
+	height:35px;
+	width:60%;
+	font-weight:bold;
+	font-size:150%;
+}
+.fanhui{
+	position:relative;
+	top:332px;
+	left:53%;
+	height:35px;
+	width:12%;
+	font-weight:bold;
+	font-size:150%;
+}

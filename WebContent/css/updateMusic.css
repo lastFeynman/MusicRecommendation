@@ -1,0 +1,152 @@
+.innerContainer{
+	position:absolute;
+	top:0px;
+	height:200px;
+	width:100%
+}
+			
+body{
+	color:white;
+    background-image:url(../image/body_background.jpg);
+}
+        	
+h1{font-size:40px;}
+
+.songNameframe{
+	position:relative;
+	top:15px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.singerframe{
+	position:relative;
+	top:23px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.albumframe{
+	position:relative;
+	top:31px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.styleframe{
+	position:relative;
+	top:39px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.categoryframe{
+	position:relative;
+	top:47px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.sceneframe{
+	position:relative;
+	top:55px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.urlframe{
+	position:relative;
+	top:63px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.coverframe{
+	position:relative;
+	top:71px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.lrcframe{
+	position:relative;
+	top:79px;
+	left:-5%;
+	height:23px;
+	width:50%;
+}
+
+.frame1{
+	position:relative;
+	top:24px;
+	left:55%;
+    font-size:1.6em;
+}
+
+.frame2{
+	position:relative;
+	top:32px;
+	left:55%;
+    font-size:1.6em;
+}
+.frame3{
+	position:relative;
+	top:40px;
+	left:55%;
+    font-size:1.6em;
+}
+.frame4{
+	position:relative;
+	top:48px;
+	left:55%;
+    font-size:1.6em;
+}
+.frame5{
+	position:relative;
+	top:52px;
+	left:55%;
+    font-size:1.6em;
+}
+.frame6{
+	position:relative;
+	top:60px;
+	left:55%;
+    font-size:1.6em;
+}
+.frame7{
+	position:relative;
+	top:68px;
+	left:55%;
+    font-size:1.6em;
+}
+.frame8{
+	position:relative;
+	top:76px;
+	left:55%;
+    font-size:1.6em;
+}
+.frame9{
+	position:relative;
+	top:84px;
+	left:55%;
+    font-size:1.6em;
+}
+.submitframe{
+	position:relative;
+	top:92px;
+	left:25%;
+}
+
+.buttonframe{
+	position:relative;
+	top:92px;
+	left:25%;
+}

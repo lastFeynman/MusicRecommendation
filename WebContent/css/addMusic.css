@@ -1,0 +1,251 @@
+body{
+	background-image:url(../image/body_background.jpg);
+	margin:0px;
+}
+h1{
+	font-size:35px;
+	color: white;
+}
+
+.innerContainer{
+				position:absolute;
+				top:0px;
+				height:200px;
+				width:100%
+			}
+
+.frameA{
+	position:relative;
+	top:50px;
+	left:-90%;
+  font-size:1.6em;
+	color: white;
+}
+
+.frameB{
+	position:relative;
+	top:60px;
+	left:-90%;
+  font-size:1.6em;
+	color: white;
+}
+.frameC{
+	position:relative;
+	top:70px;
+	left:-90%;
+  font-size:1.6em;
+	color: white;
+}
+
+.idframe{
+	position:relative;
+	top:-225px;
+	left:35%;
+	height:26px;
+	width:50%;
+	
+}
+
+.nameframe{
+	position:relative;
+	top:-217px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.singerframe{
+	position:relative;
+	top:-209px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.albumframe{
+	position:relative;
+	top:-197px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.styleframe{
+	position:relative;
+	top:-185px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.categoryframe{
+	position:relative;
+	top:-176px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.sceneframe{
+	position:relative;
+	top:-168px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.urlframe{
+	position:relative;
+	top:-160px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.coverframe{
+	position:relative;
+	top:-154px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.lrcframe{
+	position:relative;
+	top:-146px;
+	left:35%;
+	height:26px;
+	width:50%;
+}
+
+.frame1{
+	position:relative;
+	top:-218px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+
+.frame2{
+	position:relative;
+	top:-210px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame3{
+	position:relative;
+	top:-198px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame4{
+	position:relative;
+	top:-188px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame5{
+	position:relative;
+	top:-176px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame6{
+	position:relative;
+	top:-168px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame7{
+	position:relative;
+	top:-160px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame8{
+	position:relative;
+	top:-152px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame9{
+	position:relative;
+	top:-146px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+.frame10{
+	position:relative;
+	top:-138px;
+	left:100%;
+    font-size:1.6em;
+	color: white;
+}
+
+
+
+.uploadFile1frame{
+	position:relative;
+	top:40px;
+	left:-60%;
+	height:26px;
+	width:65%;
+	color: white;
+}
+
+.uploadFile2frame{
+	position:relative;
+	top:50px;
+	left:-60%;
+	height:26px;
+	width:65%;
+	color: white;
+}
+
+.uploadFile3frame{
+	position:relative;
+	top:60px;
+	left:-60%;
+	height:26px;
+	width:65%;
+	color: white;
+}
+
+.buttonframe{
+	position:relative;
+	top:-140px;
+	left:100%;
+	font-size: 20px;
+	background: #0096e6;
+	text-align: center;
+	line-height: 20px;
+	border-radius: 20px;
+}
+.submitframe{
+	position:relative;
+	top:-160px;
+	left:100%;
+	font-size: 20px;
+	background: #0096e6;
+	text-align: center;
+	line-height: 20px;
+	border-radius: 20px;
+}
+.submitframe1{
+		position:relative;
+		top:50px;
+		left:-8%;
+		font-size: 20px;
+		background: #0096e6;
+		text-align: center;
+		line-height: 20px;
+		border-radius: 20px;
+}
